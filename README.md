@@ -12,7 +12,7 @@
 ### **[😎Jaden🎸](https://github.com/JadenLunsford)**
 ### **[👨🏿‍💻Des🎥](https://github.com/DesmondD10)**
 ### **[💮Kendall💮](https://github.com/kendall-hill)**
-[Portfolio](https://github.com/kendall-hill/portfolio)
+[Portfolio](https://kendall-hill.github.io/portfolio/)
 ### **[🌃Jordin🪐](https://github.com/Jordin221)**
 
 </br>
